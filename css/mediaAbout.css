@@ -1,0 +1,36 @@
+@media(max-width: 923px){
+    .title h1 {
+        font-size: 55px;
+    }
+    .details_solutions ul li p {
+        font-size: 14px;
+    }
+
+}
+@media(max-width : 768px){
+    .details h1 {
+        font-size: 40px;
+    }
+}
+@media(max-width: 576px){
+    .have_questions {
+        display: none;
+    }
+    .security_content h1 {
+        font-size: 35px;
+    }
+}
+@media(max-width: 425px){
+    .title h1 {
+        font-size: 45px;
+    }
+    .details h1 {
+        font-size: 30px;
+    }
+    .details p {
+        margin-top: 20px;
+    }
+    .count_number span {
+        font-size: 40px;
+    }
+}
